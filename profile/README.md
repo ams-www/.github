@@ -23,11 +23,11 @@
 | Category        | Technologies |
 |----------------|--------------|
 | Frontend       | HTML, CSS, JavaScript, TypeScript, React, Vue, Tailwind CSS |
-| Backend        | Node.js, Express, Python (FastAPI), PHP |
+| Backend        | ~~Node.js, Express~~, Python (FastAPI), PHP |
 | CMS            | WordPress, Strapi, Headless CMS |
 | Database       | MySQL, PostgreSQL, MongoDB |
 | DevOps         | Docker, Nginx, GitHub Actions |
-| Design         | Figma, Adobe XD, Webflow |
+| Design         | Figma, Webflow, SVG, Canva |
 
 ---
 
@@ -50,7 +50,8 @@
 
 ## 📬 Contact
 
-- 📧 Email: malum4678(a)gmail.com  
+- 📧 Email: malum4678![Static Badge](https://img.shields.io/badge/%40-blue)
+gmail.com  
 - 🌐 Website: [https://am-software.io](https://ams-www.github.io)
 
 ---
